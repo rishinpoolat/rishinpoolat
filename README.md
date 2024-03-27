@@ -4,7 +4,7 @@
 
 ## Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-mohammedrishin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishin-poolat)](https://www.linkedin.com/in/rishin-poolat/)
+[![Linkedin Badge](https://img.shields.io/badge/-rishin-poolat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishin-poolat)](https://www.linkedin.com/in/rishin-poolat/)
 [![Gmail Badge](https://img.shields.io/badge/-mohammedrishinpoolat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedrishinpoolat@gmail.com)](mailto:mohammedrishinpoolat@gmail.com)
 
 
