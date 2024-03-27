@@ -21,7 +21,7 @@ Eager to apply my expertise to a team that values creativity, innovation, and co
 
 🤝 Let's connect
 
-- 📄 Resume 
+
 
 <br>
 
