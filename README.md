@@ -27,12 +27,12 @@ Eager to apply my expertise to a team that values creativity, innovation, and co
 
 ## ⚡ Technologies
 
-<strong>Languages</strong>: Python, C, JavaScript, TypesScript
+<strong>Languages</strong>: Python, C, C++, Java JavaScript, TypesScript
 <br>
-<strong>Frontend/Backend</strong>: React.Js, HTML, CSS, Node.js, Express.js
+<strong>Frontend/Backend</strong>: React.Js, HTML, CSS, Node.js, Express.js, Next.Js
 <br>
 <strong>Libraries/Frameworks</strong>: Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, OpenCV
 <br>
-<strong>Databases</strong> & Other: MySQL, PostgreSQL, MongoDB, Redis
+<strong>Databases</strong> & Other: MySQL, PostgreSQL, MongoDB, Redis, Supabase
 <br>
-<strong>Cloud & Other</strong>: AWS, Docker, Socket.IO, Prisma, Git
+<strong>Cloud & Other</strong>: AWS, Docker, Kubernetees, Socket.IO, Prisma, Git
