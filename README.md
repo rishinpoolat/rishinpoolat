@@ -10,29 +10,26 @@
 
 ## About me
 
-<!-- - 🔭 I’m currently working on [FromHome](https://github.com/muhammedShamal/fromhome) -->
-Pursuing my MSc in Advanced Computer Science at the University of Leicester.
-Hold a Bachelor's degree in Computer Science and Engineering. 
+Software Engineer with a Master's in Advanced Computer Science from the University of Leicester and Bachelor's in Computer Science and Engineering. Currently working at OFFSeason, architecting e-commerce platforms and AI agent systems that serve thousands of daily users. Previously gained experience at Qburst, working across both startup and established company environments.
 
-Specialized in Data Structures and Algorithms, Object Oriented Programming and Database Management Systems. Obtained sharp skills as a Software Engineer, gaining proficiency in languages like JavaScript, C, and Python. Expertise in Agile/Scrum processes and ability to thrive in dynamic teams. 
+Specialized in modern web development with React, Next.js, Node.js, and TypeScript, along with expertise in AI/ML technologies including LLMs, AI agents, and Model Context Protocol (MCP). AWS Certified Cloud Practitioner with hands-on experience in cloud infrastructure, DevOps practices, and building scalable full-stack applications.
 
-Eager to apply my expertise to a team that values creativity, innovation, and continuous learning. Excited and curious about making a significant impact in Computer Science, either by developing effective applications or applying machine learning methods to real-world problems.
-
+Eager to apply my expertise to innovative projects and teams that value creativity, continuous learning, and cutting-edge technology solutions.
 
 🤝 Let's connect
-
-
 
 <br>
 
 ## ⚡ Technologies
 
-<strong>Languages</strong>: Python, C, C++, Java JavaScript, TypesScript
+<strong>Languages</strong>: Python, TypeScript, JavaScript, C, SQL, HTML/CSS
 <br>
-<strong>Frontend/Backend</strong>: React.Js, HTML, CSS, Node.js, Express.js, Next.Js
+<strong>Frontend</strong>: React.js, Next.js 15, TailwindCSS, Framer Motion, Zustand, Redux
 <br>
-<strong>Libraries/Frameworks</strong>: Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, OpenCV
+<strong>Backend</strong>: Node.js, Express.js, FastAPI, Hono, Bun, Socket.io
 <br>
-<strong>Databases</strong> & Other: MySQL, PostgreSQL, MongoDB, Redis, Supabase
+<strong>AI & Machine Learning</strong>: LLMs, AI Agents, Model Context Protocol (MCP), NLP, TensorFlow, PyTorch, Scikit-learn, DeBERTa, CNNs
 <br>
-<strong>Cloud & Other</strong>: AWS, Docker, Kubernetees, Socket.IO, Prisma, Git
+<strong>Databases & Cloud</strong>: PostgreSQL, Supabase, MongoDB, Redis, AWS (S3, EC2, CloudFront), Cloudflare R2, Drizzle ORM, Prisma
+<br>
+<strong>DevOps & Automation</strong>: Docker, Git, CI/CD, N8N Workflow Automation, Jest, PM2, Puppeteer, Linux
