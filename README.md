@@ -24,7 +24,7 @@ Eager to apply my expertise to innovative projects and teams that value creativi
 
 <strong>Languages</strong>: Python, TypeScript, JavaScript, C, SQL, HTML/CSS
 <br>
-<strong>Frontend</strong>: React.js, Next.js 15, TailwindCSS, Framer Motion, Zustand, Redux
+<strong>Frontend</strong>: React.js, Next.js, TailwindCSS, Framer Motion, Zustand, Redux
 <br>
 <strong>Backend</strong>: Node.js, Express.js, FastAPI, Hono, Bun, Socket.io
 <br>
