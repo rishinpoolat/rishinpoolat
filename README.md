@@ -10,9 +10,7 @@
 
 ## About me
 
-Software Engineer with a Master's in Advanced Computer Science from the University of Leicester and Bachelor's in Computer Science and Engineering. Currently working at OFFSeason, architecting e-commerce platforms and AI agent systems that serve thousands of daily users. Previously gained experience at Qburst, working across both startup and established company environments.
-
-Specialized in modern web development with React, Next.js, Node.js, and TypeScript, along with expertise in AI/ML technologies including LLMs, AI agents, and Model Context Protocol (MCP). AWS Certified Cloud Practitioner with hands-on experience in cloud infrastructure, DevOps practices, and building scalable full-stack applications.
+Software Engineer with a Master's in Advanced Computer Science from the University of Leicester and Bachelor's in Computer Science and Engineering. Production experience building AI agent ecosystems for business automation, architecting e-commerce platforms, and developing comprehensive POS and inventory management systems. Specialized in full-stack development with Next.js, React, TypeScript, Node.js, and ASP.NET Core, with expertise in AI/LLM integration (OpenAI GPT-4, Multi-LLM Orchestration, Model Context Protocol), cloud infrastructure (AWS, Docker, PostgreSQL, Supabase), and e-commerce systems (Stripe payments, inventory management). Passionate about building scalable, innovative solutions that solve real business problems through clean code and modern architecture. AWS Certified Cloud Practitioner and IBM CIC Hackathon Finalist committed to staying at the forefront of software engineering innovation.
 
 Eager to apply my expertise to innovative projects and teams that value creativity, continuous learning, and cutting-edge technology solutions.
 
