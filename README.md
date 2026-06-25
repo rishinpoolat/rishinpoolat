@@ -20,11 +20,11 @@ Eager to apply my expertise to innovative projects and teams that value creativi
 
 ## ⚡ Technologies
 
-<strong>Languages</strong>: Python, TypeScript, JavaScript, C, SQL, HTML/CSS
+<strong>Languages</strong>: Python, TypeScript, JavaScript, C, C#, SQL, HTML/CSS
 <br>
 <strong>Frontend</strong>: React.js, Next.js, TailwindCSS, Framer Motion, Zustand, Redux
 <br>
-<strong>Backend</strong>: Node.js, Express.js, FastAPI, Hono, Bun, Socket.io
+<strong>Backend</strong>: Node.js, Express.js, ASP .NET, FastAPI, Hono, Bun, Socket.io
 <br>
 <strong>AI & Machine Learning</strong>: LLMs, AI Agents, Model Context Protocol (MCP), NLP, TensorFlow, PyTorch, Scikit-learn, DeBERTa, CNNs
 <br>
