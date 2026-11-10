@@ -1,33 +1,52 @@
-<h1 align="center">Hi , I'm Mohammed Rishin Poolat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Mohammed Rishin Poolat <img 
+  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">Software Engineer</p>
+  <p align="center">Researcher, AI & Data Science</p>
 
-## Connect with me
+  ## Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-rishinpoolat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishin-poolat)](https://www.linkedin.com/in/rishin-poolat/)
-[![Gmail Badge](https://img.shields.io/badge/-mohammedrishinpoolat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedrishinpoolat@gmail.com)](mailto:mohammedrishinpoolat@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-rishinpoolat-blue?style=flat-square&l
+  ogo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishin-poolat)](https://
+  www.linkedin.com/in/rishin-poolat/)
+  [![Gmail Badge](https://img.shields.io/badge/-mohammedrishinpoolat@gmail.com-c14438?st
+  yle=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedrishinpoolat@gmail.com)
+  ](mailto:mohammedrishinpoolat@gmail.com)
+  [![Portfolio Badge](https://img.shields.io/badge/-rishinpoolat.github.io-black?style=f
+  lat-square&logo=githubpages&logoColor=white)](https://rishinpoolat.github.io)
 
+  ## About me
 
-## About me
+  AI and Data Science Researcher in Doha, Qatar, working on wearable AI for precision
+  health. I build machine learning models on wearable sensor data and AI agent systems
+  using LLMs and MCP, drawing on several years of software engineering experience across
+  the UK, India and Qatar.
 
-Software Engineer with a Master's in Advanced Computer Science from the University of Leicester and Bachelor's in Computer Science and Engineering. Production experience building AI agent ecosystems for business automation, architecting e-commerce platforms, and developing comprehensive POS and inventory management systems. Specialized in full-stack development with Next.js, React, TypeScript, Node.js, and ASP.NET Core, with expertise in AI/LLM integration (OpenAI GPT-4, Multi-LLM Orchestration, Model Context Protocol), cloud infrastructure (AWS, Docker, PostgreSQL, Supabase), and e-commerce systems (Stripe payments, inventory management). Passionate about building scalable, innovative solutions that solve real business problems through clean code and modern architecture. AWS Certified Cloud Practitioner and IBM CIC Hackathon Finalist committed to staying at the forefront of software engineering innovation.
+  - 🎓 MSc Advanced Computer Science, University of Leicester
+  - 🎓 B.Tech Computer Science and Engineering, APJ Abdul Kalam Technological University
+  - 🏆 AWS Certified Cloud Practitioner · IBM CIC Hackathon Finalist
 
-Eager to apply my expertise to innovative projects and teams that value creativity, continuous learning, and cutting-edge technology solutions.
+  <br>
 
-🤝 Let's connect
+  ## ⚡ Technologies
 
-<br>
-
-## ⚡ Technologies
-
-<strong>Languages</strong>: Python, TypeScript, JavaScript, C, C#, SQL, HTML/CSS
-<br>
-<strong>Frontend</strong>: React.js, Next.js, TailwindCSS, Framer Motion, Zustand, Redux
-<br>
-<strong>Backend</strong>: Node.js, Express.js, ASP .NET, FastAPI, Hono, Bun, Socket.io
-<br>
-<strong>AI & Machine Learning</strong>: LLMs, AI Agents, Model Context Protocol (MCP), NLP, TensorFlow, PyTorch, Scikit-learn, DeBERTa, CNNs
-<br>
-<strong>Databases & Cloud</strong>: PostgreSQL, Supabase, MongoDB, Redis, AWS (S3, EC2, CloudFront), Cloudflare R2, Drizzle ORM, Prisma
-<br>
-<strong>DevOps & Automation</strong>: Docker, Git, CI/CD, N8N Workflow Automation, Jest, PM2, Puppeteer, Linux
+  <strong>Languages</strong>: Python, SQL, TypeScript, JavaScript, C, C#, HTML/CSS
+  <br>
+  <strong>Machine Learning & Data Science</strong>: PyTorch, TensorFlow, Keras,
+  scikit-learn, LightGBM, DeBERTa, CNNs, NumPy, Pandas, OpenCV, Jupyter, Time-Series
+  Analysis, Wearable Sensor Data, NLP, Computer Vision
+  <br>
+  <strong>Generative AI & Agents</strong>: LLMs, AI Agents, Multi-LLM Orchestration,
+  Model Context Protocol (MCP), RAG, Vector Databases, OpenAI API, Google Gemini API,
+  Claude Code
+  <br>
+  <strong>Backend</strong>: FastAPI, Node.js, Express.js, ASP.NET Core, Hono, Bun,
+  Socket.io
+  <br>
+  <strong>Frontend</strong>: React.js, Next.js, TailwindCSS, Framer Motion, Zustand,
+  Redux
+  <br>
+  <strong>Databases & Cloud</strong>: PostgreSQL, Supabase, MongoDB, Redis, AWS (S3,
+  EC2, RDS, CloudFront), Cloudflare R2, Drizzle ORM, Prisma
+  <br>
+  <strong>DevOps & Automation</strong>: Docker, Git, CI/CD, Linux, n8n Workflow
+  Automation, Jest, PM2, Puppeteer
